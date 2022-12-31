@@ -10,14 +10,12 @@ Side dish
 1.Cabbage
 2.Beans
 
-Thank you
-
-Completed the changes
-
 Some breakfast items
 1.Idly
 2.Pongal
 3.Poori
+4.Dosai
+5.Ragi kool
 
 Some new breakfast items
 1.Pasta
