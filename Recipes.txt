@@ -10,9 +10,7 @@ Side dish
 1.Cabbage
 2.Beans
 
-
 Thank you
-
 
 Completed the changes
 
@@ -20,6 +18,11 @@ Some breakfast items
 1.Idly
 2.Pongal
 3.Poori
+
+Some new breakfast items
+1.Pasta
+2.French toast
+3.Noodles
 
 Closing the main branch for changes
 
